@@ -1,9 +1,9 @@
 class Machbox < Formula
   desc "Lightweight macOS malware analysis sandbox"
   homepage "https://github.com/ac0d3r/machbox"
-  url "https://github.com/ac0d3r/machbox/releases/download/v0.1.4/machbox-darwin-arm64"
-  sha256 "a38596838d67f52c4cc56fd8e2a2d4f791fffd9190c8262913ddd9bdeeae0b3f"
-  version "0.1.4"
+  url "https://github.com/ac0d3r/machbox/releases/download/v0.1.5/machbox-darwin-arm64"
+  sha256 "ee657e46d358d0611bec1ba42a39f1861c0877905c4529ac0469bfcc7d934191"
+  version "0.1.5"
   license "Apache-2.0"
 
   depends_on :macos
